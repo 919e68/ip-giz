@@ -2,6 +2,7 @@
 
 ```javascript
 // import the ip-giz
+
 const ipGiz = require('ip-giz)
 ```
 
@@ -12,7 +13,7 @@ ipGiz.isValid('192.168.1.1')
 // result: true
 
 ipGiz.isValid('192.169.1.256')
-result: false
+// result: false
 ```
 
 ### Ping
