@@ -1,0 +1,17 @@
+{
+  "name": "ip-giz",
+  "version": "0.0.1",
+  "description": "IP utility",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ip",
+    "tool",
+    "utility",
+    "net"
+  ],
+  "author": "Wilson Anciro",
+  "license": "ISC"
+}
