@@ -3,7 +3,7 @@
 ```javascript
 // import the ip-giz
 
-const ipGiz = require('ip-giz)
+const ipGiz = require('ip-giz')
 ```
 
 ### IP4 Validity
